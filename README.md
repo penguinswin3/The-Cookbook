@@ -4,12 +4,18 @@ Download the desktop app here: https://obsidian.md
 Install the Git plugin from the Community Plugins 
   Tweak the setting to your liking. I enable auto pull on startup, auto commit every 5 minutes, and set the remote repo URL to this project. 
 
+## Project Structure
+### Top level folders
+Top level folders should be plural, and encompass a genre, like Soups or Breads. 
+
+### Tags
+Within a recipe, add tags that match appropriately. Each tag should be capitalized. Example tags can include:
+	#Vegan #Vegetarian #Easy #Complex #Healthy #Quick #Favorite
 
 
 
-
-Please follow the Recipie MD specification.
-
+## Recipe Templating
+Please use the recipemd format
 https://recipemd.org/specification.html
 
 For Example
