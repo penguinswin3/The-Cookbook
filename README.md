@@ -13,7 +13,7 @@ Some people call it guac.
 
 ---
 
-- 1 a
+- 1 avocado
 - *.5 teaspoon* salt
 - *1 1/2 pinches* red pepper flakes
 - lemon juice
