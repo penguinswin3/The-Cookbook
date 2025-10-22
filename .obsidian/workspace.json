@@ -10,6 +10,22 @@
           {
             "id": "17f33d4796621d1e",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "d56edd15087af7c6",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
@@ -21,7 +37,8 @@
               "title": "Make Ahead Breakfast Casserole"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,7 +187,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "17f33d4796621d1e",
+  "active": "d56edd15087af7c6",
   "lastOpenFiles": [
     "README.md",
     "Breakfasts/Make Ahead Breakfast Casserole.md",
