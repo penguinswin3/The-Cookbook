@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pastas/Tony's Carbonara.md",
+                "file": "Soups/Sausage Tortellini Soup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tony's Carbonara"
+              "title": "Sausage Tortellini Soup"
             }
           }
         ]
@@ -184,6 +184,7 @@
   "active": "89bae5d2983155f7",
   "lastOpenFiles": [
     "Pastas/Tony's Carbonara.md",
+    "Soups/Sausage Tortellini Soup.md",
     "Templates/Recipe Template.md",
     "README.md",
     "Templates",
