@@ -1,3 +1,13 @@
+# The Cookbook
+## Obsiduian Setup
+Download the desktop app here: https://obsidian.md
+Install the Git plugin from the Community Plugins 
+  Tweak the setting to your liking. I enable auto pull on startup, auto commit every 5 minutes, and set the remote repo URL to this project. 
+
+
+
+
+
 Please follow the Recipie MD specification.
 
 https://recipemd.org/specification.html
