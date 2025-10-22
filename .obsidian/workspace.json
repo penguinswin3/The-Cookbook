@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pastas/Untitled.md",
+                "file": "Pastas/Tony's Carbonara.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Tony's Carbonara"
             }
           }
         ]
@@ -183,8 +183,8 @@
   },
   "active": "89bae5d2983155f7",
   "lastOpenFiles": [
+    "Pastas/Tony's Carbonara.md",
     "Templates/Recipe Template.md",
-    "Pastas/Untitled.md",
     "README.md",
     "Templates",
     "Untitled.md",
