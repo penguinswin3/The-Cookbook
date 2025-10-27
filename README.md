@@ -10,7 +10,8 @@ Top level folders should be plural, and encompass a genre, like Soups or Breads.
 
 ### Tags
 Within a recipe, add tags that match appropriately. Each tag should be capitalized. Example tags can include:
-	#Vegan #Vegetarian #Easy #Complex #Healthy #Quick #Favorite
+	#Vegan #Vegetarian #Easy #Complex #Healthy #Quick #Favorite #MeatlessOption
+	#MakeAhead 
 
 
 
